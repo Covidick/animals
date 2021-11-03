@@ -1,0 +1,4 @@
+{"animals":[{"age":5,"birthday":"Oct 28, 2021 6:18:09 PM","icon_name":"icon_dog","kind":"dog","name":"Никита","sex":"мальчик"},
+{"age":3,"birthday":"Oct 28, 2021 6:18:09 PM","icon_name":"icon_dog","kind":"dog","name":"Гектор","sex":"мальчик"},
+{"age":2,"birthday":"Oct 28, 2021 6:18:09 PM","icon_name":"icon_cat","kind":"cat","name":"Лиза","sex":"девочка"},
+{"age":1,"birthday":"Oct 28, 2021 6:18:09 PM","icon_name":"icon_frog","kind":"frog","name":"Квакуша","sex":"девочка"}]}
